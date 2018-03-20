@@ -7,5 +7,5 @@ dev branch
 <<<<<<< HEAD
 new line update from master
 =======
-new line update from dev
+new line update from dev£¡£¡£¡
 >>>>>>> dev
