@@ -9,3 +9,6 @@ new line update from master
 =======
 new line update from dev£¡£¡£¡
 >>>>>>> dev
+
+
+new dev type
