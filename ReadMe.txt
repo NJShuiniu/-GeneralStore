@@ -3,6 +3,7 @@ Hello world!!!
 Apple Tree
 
 dev branch
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 new line update from master
@@ -10,5 +11,3 @@ new line update from master
 new line update from dev£¡£¡£¡
 >>>>>>> dev
 
-
-new dev type
